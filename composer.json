@@ -1,6 +1,6 @@
 {
     "name": "bueltge/multisite-global-media",
-    "type": "wordpress-muplugin",
+    "type": "library",
     "description": "Multisite Global Media is a WordPress plugin which shares media across the Multisite network.",
     "keywords": [
         "wordpress",
